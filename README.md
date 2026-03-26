@@ -12,4 +12,3 @@ Tools:
 Applications:
 - Drawing register automation
 - File renaming scripts
-``
